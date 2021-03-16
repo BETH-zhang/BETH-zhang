@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|Base Info|Dashboard Data|
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| __Hi, I am Beth! 👋__<br/><br/>1. 🔭 I’m currently working on Zhike, China<br/>2. 🌱 I’m currently learning FE, Design<br/>3. 📫 How to reach me: gemeiwangji789@qq.com<br/>4. 💬 Leave me a word : ... | [![Beth's github stats](https://github-readme-stats.vercel.app/api?username=BETH-zhang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+
+
+<div align=center><b>Here is a mini program for pixel painting. You can scan it by wechat for detail.</b></div>
+
+<p align="center">
+  <img src="./cxy.jpg" />
+</p>
